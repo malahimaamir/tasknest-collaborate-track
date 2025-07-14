@@ -40,7 +40,10 @@
     "@radix-ui/react-toggle-group": "^1.1.0",
     "@radix-ui/react-tooltip": "^1.1.4",
     "@tanstack/react-query": "^5.56.2",
+<<<<<<< HEAD
     "axios": "^1.10.0",
+=======
+>>>>>>> d5151fa963903da7b5bea9fe3ffaf76760379fdc
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "cmdk": "^1.0.0",
